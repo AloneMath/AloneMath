@@ -1,16 +1,15 @@
 ## Hi there 👋
+I'm John
 
-<!--
-**AloneMath/AloneMath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on AI Research
+- 🌱 I’m currently learning AI,Physics,Math
+- 👯 I’m looking to collaborate on AI Project
+- 🤔 I’m looking for help with Various Bugs of ASI Code
+- 💬 Ask me about AI,Physics,Math
+- 📫 How to reach me: nuliyue@outlook.com
+- 😄 Pronouns: Hi there 👋
+- ⚡ Fun fact: I like fun fact is 1+1=?
+--> I love entrepreneurship because it is something extraordinary.
+  When an entrepreneur wants to do something truly great, they will never give up,
+  because once they succeed, they will make an important contribution to the development of human civilization!
+  I also want to do something truly great!
