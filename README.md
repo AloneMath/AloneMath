@@ -1,6 +1,7 @@
 ## Hi there 👋
 I'm John
 
+- 🎵 I like Music
 - 🔭 I’m currently working on AI Research
 - 🌱 I’m currently learning AI,Physics,Math
 - 👯 I’m looking to collaborate on AI Project
