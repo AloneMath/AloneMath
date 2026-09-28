@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm John
+Founder & CEO Relativon
 
 - 🎵 I like Music
 - 🔭 I’m currently working on AI Research
